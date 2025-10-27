@@ -9,5 +9,5 @@ app_file: app.py
 pinned: false
 short_description: Quick AI-based text summarizer
 ---
-
+https://huggingface.co/spaces/Vargock/Text-Summarizer
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
